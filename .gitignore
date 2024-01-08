@@ -1,0 +1,8 @@
+.vscode/
+.__pycache__/
+.sql/
+*.docx
+*.ldf
+*.mdf
+tester.py
+page.html
